@@ -1,0 +1,22 @@
+﻿  XboxJoyROS.cpp
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\rosserial_msgs\TopicInfo.h(49,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\rosserial_msgs\TopicInfo.h(54,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\rosserial_msgs\TopicInfo.h(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\rosserial_msgs\Log.h(36,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\rosserial_msgs\RequestParam.h(27,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\rosserial_msgs\RequestParam.h(121,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\std_msgs\Header.h(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\ros_lib\std_msgs\String.h(26,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(65,23): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(135,54): warning C4244: '=': conversion from 'double' to 'sensor_msgs::Joy::_axes_type', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(136,54): warning C4244: '=': conversion from 'double' to 'sensor_msgs::Joy::_axes_type', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(137,54): warning C4244: '=': conversion from 'double' to 'sensor_msgs::Joy::_axes_type', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(138,54): warning C4244: '=': conversion from 'double' to 'sensor_msgs::Joy::_axes_type', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(139,58): warning C4244: '=': conversion from 'double' to 'sensor_msgs::Joy::_axes_type', possible loss of data
+C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\XboxJoyROS\XboxJoyROS.cpp(140,59): warning C4244: '=': conversion from 'double' to 'sensor_msgs::Joy::_axes_type', possible loss of data
+  Generating code
+  1 of 191 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  XboxJoyROS.vcxproj -> C:\Users\ral2\Desktop\Carpeta Cristian\RAL_magister\XboxJoyROS\x64\Release\XboxJoyROS.exe
